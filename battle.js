@@ -17,5 +17,5 @@ const under = takeNumber("Underdogs")
 
 const strays = takeNumber("Strays")
 
-const reds = takeNumber("Reds")
+const reds = takeNumber("The Reds")
 
